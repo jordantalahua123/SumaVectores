@@ -1,0 +1,44 @@
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\bin\Debug\actividad1.exe.config
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\bin\Debug\actividad1.exe
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\bin\Debug\actividad1.pdb
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\obj\Debug\actividad1.csproj.AssemblyReference.cache
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\obj\Debug\actividad1.csproj.SuggestedBindingRedirects.cache
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\obj\Debug\actividad1.frmVectores.resources
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\obj\Debug\actividad1.Properties.Resources.resources
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\obj\Debug\actividad1.csproj.GenerateResource.cache
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\obj\Debug\actividad1.csproj.CoreCompileInputs.cache
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\obj\Debug\actividad1.exe
+E:\Diego\Universidad\5_Quinto Semestre\COMPUTACION GRAFICA\Primer Parcial\ACTIVIDADES_CLASE\actividad1\actividad1\obj\Debug\actividad1.pdb
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\bin\Debug\actividad1.exe.config
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\bin\Debug\actividad1.exe
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\bin\Debug\actividad1.pdb
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\obj\Debug\actividad1.csproj.AssemblyReference.cache
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\obj\Debug\actividad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\obj\Debug\actividad1.frmVectores.resources
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\obj\Debug\actividad1.Properties.Resources.resources
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\obj\Debug\actividad1.csproj.GenerateResource.cache
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\obj\Debug\actividad1.csproj.CoreCompileInputs.cache
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\obj\Debug\actividad1.exe
+C:\Users\labctr.BQV-LAB-SALA8\Downloads\actividad1\actividad1\obj\Debug\actividad1.pdb
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\bin\Debug\actividad1.exe.config
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\bin\Debug\actividad1.exe
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\bin\Debug\actividad1.pdb
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\obj\Debug\actividad1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\obj\Debug\actividad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\obj\Debug\actividad1.frmVectores.resources
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\obj\Debug\actividad1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\obj\Debug\actividad1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\obj\Debug\actividad1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\obj\Debug\actividad1.exe
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\actividad1\actividad1\obj\Debug\actividad1.pdb
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\bin\Debug\actividad1.exe.config
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\bin\Debug\actividad1.exe
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\bin\Debug\actividad1.pdb
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\obj\Debug\actividad1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\obj\Debug\actividad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\obj\Debug\actividad1.frmVectores.resources
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\obj\Debug\actividad1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\obj\Debug\actividad1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\obj\Debug\actividad1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\obj\Debug\actividad1.exe
+C:\Users\LENOVO\Desktop\ESPE\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\UNIDAD 1\C#\vectorNormal\actividad1\obj\Debug\actividad1.pdb
